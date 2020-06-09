@@ -1,6 +1,6 @@
 {
   "name": "@monogram/gridsome-source-prismic",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A source plugin for Prismic",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,7 @@
   "author": "Claudio Fofiu <claudio@monogram.io>",
   "license": "MIT",
   "dependencies": {
+    "marked": "^1.1.0",
     "prismic-dom": "^2.2.3",
     "prismic-javascript": "^3.0.0"
   },
