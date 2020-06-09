@@ -1,0 +1,26 @@
+{
+  "name": "@monogramdesign/gridsome-source-prismic",
+  "version": "1.0.0",
+  "description": "A source plugin for Prismic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monogramdesign/gridsome-source-prismic.git"
+  },
+  "keywords": [
+    "gridsome",
+    "gridsome-plugin",
+    "vuejs",
+    "gridsome-source-plugin"
+  ],
+  "homepage": "https://github.com/monogramdesign/gridsome-source-prismic#readme",
+  "author": "Claudio Fofiu <claudio@monogram.io>",
+  "license": "MIT",
+  "dependencies": {
+    "prismic-dom": "^2.2.3",
+    "prismic-javascript": "^3.0.0"
+  }
+}
