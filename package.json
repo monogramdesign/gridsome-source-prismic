@@ -1,6 +1,6 @@
 {
   "name": "@monogram/gridsome-source-prismic",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A source plugin for Prismic",
   "main": "index.js",
   "scripts": {

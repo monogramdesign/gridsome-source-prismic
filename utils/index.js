@@ -87,7 +87,8 @@ const documentParser = ({
     first_publication_date,
     last_publication_date,
     slugs,
-    id: slugs[0],
+		uid,
+		id: slugs[0],
     slug: slugs[0],
     lang
   }
