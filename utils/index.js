@@ -71,7 +71,8 @@ const getParser = (field) => {
 
 // function that parses a prismic document to a javascript object
 const documentParser = ({
-  id,
+	id,
+	uid,
   type,
   tags,
   first_publication_date,
